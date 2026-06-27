@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Wo bist du jetzt
+
+This log tracks the cryptographic history and versioning for the song **Wo bist du jetzt** (wo-bist-du-jetzt).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T07:03:21.921698 | `v1` | `b5f3da15b30b96b05223046d71b9064fbfd7690fed57542da12002992932c83c` | `9afd6c02a1b050db8955a3ea8623b916e0534db864fa242bbc1ab2bc084474f4` | `2026-06-27_wo-bist-du-jetzt-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

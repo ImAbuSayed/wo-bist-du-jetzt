@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wo-bist-du-jetzt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Wo bist du jetzt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wo-bist-du-jetzt/) |
+| **Get License** | [Get License For Wo bist du jetzt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wo-bist-du-jetzt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b5f3da15b30b96b05223046d71b9064fbfd7690fed57542da12002992932c83c` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
