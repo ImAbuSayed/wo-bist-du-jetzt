@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wo-bist-du-jetzt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Wo bist du jetzt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wo-bist-du-jetzt/) |
+| **Get License** | [Obtain a Music License for Wo bist du jetzt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wo-bist-du-jetzt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Wo bist du jetzt, Baby, tief in der Nacht
+> Dein Körper ist pures Gift, schau, was du machst
+> Ich fahr' im RS durch die dunkle Stadt
+> Wo bist du jetzt, Baby, halt mich wach
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
